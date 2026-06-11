@@ -13,3 +13,10 @@ Student AI classes
 
 ![Gemini first call](gemini_first_call.png)
 
+## Day 2 Lab 2B — Errors handled 
+1. Missing phone number Handled using Optional[str] = None. 
+2. Invalid JSON output Retry prompt repairs malformed JSON. 
+3. Empty input Validation prevents processing blank resumes.
+- Day 2 — Lab 2B: JSON Résumé Extractor — see [Day2_LabA.ipynb](Day1_Setup.ipynb)
+- ![Gemini first call](Day2_LabA_JSON(resumes).png)
+## Sample résumés processed: 3 / 3 successful\
